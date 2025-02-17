@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator made in Python
+A simple calculator made in Python with unnecessary features
